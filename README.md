@@ -1,4 +1,4 @@
-This is a copycat challenge I did to improve my front-end coding skills.
+This is a copycat challenge I did to improve my front-end coding skills. The goal of this challeng is to master flexbox.
 
 The original website is https://trillo.netlify.app/
 
